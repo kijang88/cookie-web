@@ -24,6 +24,6 @@ At Cookie Browser, we respect your privacy and provide you with the ability to m
 ## Important Notes
 - Irreversible Action: Please be aware that once data is deleted, it cannot be recovered.
 - Impact on Experience: Deleting certain data may affect your app experience, such as losing saved preferences or browsing history.
-For any additional questions or concerns, feel free to reach out to our support team at [support email/contact].
+For any additional questions or concerns, feel free to reach out to our support team at kijangchat@gmail.com.
 
 Thank you for using Cookie Browser!
