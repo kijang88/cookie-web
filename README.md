@@ -1,49 +1,17 @@
-# shadcn-docs-nuxt Minimal Starter
+# Cookie Browser Website
 
-Starter template for [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt).
+This repository only contains the website for cookie browser, for addons or please visit [Cookie Addons](https://github.com/kijang88/cookie-addons)
 
-## Setup
+## Addons
 
-Make sure to install the dependencies:
+https://github.com/kijang88/cookie-addons
 
-```bash
-# yarn
-yarn install
+## Report issues
 
-# npm
-npm install
+https://github.com/kijang88/cookie-web/issues/new/choose
 
-# pnpm
-pnpm install
+## Guide
 
-# bun
-bun install
-```
+[Getting started](https://cookie.kijang.chat/getting-started/)
 
-## Development Server
 
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-[![Deploy to NuxtHub](https://hub.nuxt.com/button.svg)](https://hub.nuxt.com/new?repo=ZTL-UwU/shadcn-docs-nuxt-starter)
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https%3A%2F%2Fgithub.com%2FZTL-UwU%2Fshadcn-docs-nuxt-starter)
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Checkout the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.

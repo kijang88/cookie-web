@@ -18,6 +18,11 @@ export default defineAppConfig({
         dark: '/cookie_white.svg',
       },
       nav: [],
+      links: [{
+        icon: 'lucide:github',
+        to: 'https://github.com/kijang88/cookie-web',
+        target: '_blank',
+      },],
       // links: [{
       //   icon: 'lucide:github',
       //   to: 'https://github.com/ZTL-UwU/shadcn-docs-nuxt',
