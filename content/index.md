@@ -6,7 +6,7 @@ navigation: false
 ::hero-alt
 ---
 announcement:
-  title: 'Release v1.1.0'
+  title: 'Release v1.2.0'
   icon: '🎉'
   to: https://play.google.com/store/apps/details?id=chat.kijang.manga.cookie.browser
   target: _blank

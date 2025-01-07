@@ -1,10 +1,6 @@
 # Cookie Browser Website
 
-This repository only contains the website for cookie browser, for addons or please visit [Cookie Addons](https://github.com/kijang88/cookie-addons)
-
-## Addons
-
-https://github.com/kijang88/cookie-addons
+This repository only contains the website for cookie browser
 
 ## Report issues
 
