@@ -1,5 +1,6 @@
 connekt.ai, 1732945743, RESELLER
 lacunads.com, lcb555b3bc8667a09a, RESELLER
+facebook.com, 122833649867790, DIRECT, c3e20eee3f780d68
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158481, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
