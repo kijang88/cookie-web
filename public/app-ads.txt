@@ -196,6 +196,11 @@ rubiconproject.com, 17328, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 22134, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 15854, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 17062, RESELLER, 0bfd66d529a55807
+openx.com, 563905670, RESELLER, 6a698e2ec38604c6
+pubmatic.com, 165854, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 28169, RESELLER, 0bfd66d529a55807
+toponad.com, 165535463cfb70, RESELLER, 1d49fe424a1a456d
+triplelift.com, 14798, RESELLER, 6c33edb13117fd86
 # meta
 facebook.com, 122833649867790, DIRECT, c3e20eee3f780d68
 # mintegral
